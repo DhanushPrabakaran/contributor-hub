@@ -1,2 +1,2 @@
-# contributor-page
+# contributor-hub
 work in progress
